@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@900&display=swap');
+
+.main-footer-field{
+    background-color:#001219;
+    color:#fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    bottom:0;
+}
+.footer-logo{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 4rem;
+}
+.f-line{
+    font-size:1.1rem;
+}
+.f-line, .s-line, .t-line{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.t-line{
+    font-size:2rem;
+}
+.fa-twitter, .fa-instagram, .fa-facebook-f{
+    color:#fff;
+    margin:40px;
+}
+.fa-twitter:hover{
+    color:#1DA1F2;
+}
+.fa-instagram:hover{
+    color:#E4405F;
+}
+.fa-facebook-f:hover{
+    color:#1877F2;
+}

@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@900&display=swap');
+
+
+.first-columns a{
+    text-decoration: none;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 4rem;
+}
+.second-columns a{
+    font-size:1.2rem;
+    font-weight:bold;
+    font-family:sans-serif;
+}
