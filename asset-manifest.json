@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simple-website-page-with-react-route/static/css/main.f83ebfb6.css",
+    "main.js": "/simple-website-page-with-react-route/static/js/main.fbfc47a9.js",
+    "static/media/teamwork.jpg": "/simple-website-page-with-react-route/static/media/teamwork.ad50776dcec1840dd877.jpg",
+    "static/media/MySql.svg": "/simple-website-page-with-react-route/static/media/MySql.bc3a723d6b5300b7f1b33ab86b595f73.svg",
+    "static/media/React.svg": "/simple-website-page-with-react-route/static/media/React.5b656d56919a96dd36cc9f95461af933.svg",
+    "index.html": "/simple-website-page-with-react-route/index.html",
+    "static/media/js.svg": "/simple-website-page-with-react-route/static/media/js.bfc4f32afcde35ab3ad27dc830dcbbd2.svg",
+    "static/media/Django.svg": "/simple-website-page-with-react-route/static/media/Django.82149ff30d34ba105ef58d99d30bb1e7.svg",
+    "static/media/Html5.svg": "/simple-website-page-with-react-route/static/media/Html5.24ad7a0cb7f7c2ee98ece6473b1b4a91.svg",
+    "static/media/Css3.svg": "/simple-website-page-with-react-route/static/media/Css3.d872c04d8126de72bb189172e8d175e1.svg",
+    "main.f83ebfb6.css.map": "/simple-website-page-with-react-route/static/css/main.f83ebfb6.css.map",
+    "main.fbfc47a9.js.map": "/simple-website-page-with-react-route/static/js/main.fbfc47a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f83ebfb6.css",
+    "static/js/main.fbfc47a9.js"
+  ]
+}
